@@ -1,0 +1,93 @@
+﻿  Starting remote build
+  Compiling sources:
+  main.cpp
+L: included from \mnt\d\Project1\Project1\main.cpp(20): message : 
+D:\Project1\Project1\blas.h(12,43): warning : conversion to ‘int’ from ‘__gnu_cxx::__promote_2<int, int, double, double>::__type {aka double}’ may alter its value [-Wconversion]
+L: included from \mnt\d\Project1\Project1\main.cpp(22): message : 
+D:\Project1\Project1\core.h(8,20): warning : ‘RadialWave::Solution’ will be initialized after [-Wreorder]
+D:\Project1\Project1\core.h(7,20): warning : ‘std::vector<double> RadialWave::R’ [-Wreorder]
+D:\Project1\Project1\core.h(13,5): warning : when initialized here [-Wreorder]
+D:\Project1\Project1\core.h(13,60): warning : conversion to ‘int’ from ‘std::vector<double>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+D:\Project1\Project1\core.h(30,38): warning : conversion to ‘int’ from ‘std::vector<double>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+D:\Project1\Project1\core.h(31,36): warning : conversion to ‘int’ from ‘std::vector<double>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+D:\Project1\Project1\core.h(38,31): warning : conversion to ‘int’ from ‘std::vector<double>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+D:\Project1\Project1\core.h(39,43): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+D:\Project1\Project1\core.h(43,74): warning : conversion to ‘int’ from ‘std::vector<double>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+D:\Project1\Project1\core.h(44,38): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+D:\Project1\Project1\core.h(52,36): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+D:\Project1\Project1\core.h(59,40): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+L: included from \mnt\d\Project1\Project1\main.cpp(22): message : 
+D:\Project1\Project1\core.h(78,35): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+D:\Project1\Project1\core.h(85,13): warning : unused variable ‘j’ [-Wunused-variable]
+L: included from \mnt\d\Project1\Project1\main.cpp(24): message : 
+D:\Project1\Project1\fccLattice.h(27,27): warning : conversion to ‘int’ from ‘std::vector<dvector3>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+D:\Project1\Project1\fccLattice.h(31,27): warning : conversion to ‘int’ from ‘std::vector<dvector3>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+D:\Project1\Project1\fccLattice.h(116,35): warning : conversion to ‘int’ from ‘std::vector<dvector3>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+L: included from \mnt\d\Project1\Project1\main.cpp(25): message : 
+D:\Project1\Project1\PartialWave.h(22,29): warning : ‘PartialWave::Psip_l’ will be initialized after [-Wreorder]
+D:\Project1\Project1\PartialWave.h(20,20): warning : ‘std::vector<double> PartialWave::Veff0’ [-Wreorder]
+D:\Project1\Project1\PartialWave.h(24,5): warning : when initialized here [-Wreorder]
+L: included from \mnt\d\Project1\Project1\main.cpp(25): message : 
+D:\Project1\Project1\PartialWave.h(35,27): warning : conversion to ‘int’ from ‘std::vector<double>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+D:\Project1\Project1\PartialWave.h(79,40): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+D:\Project1\Project1\PartialWave.h(86,38): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+D:\Project1\Project1\PartialWave.h(89,44): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+D:\Project1\Project1\PartialWave.h(97,37): warning : conversion to ‘int’ from ‘std::vector<double>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+D:\Project1\Project1\PartialWave.h(98,44): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+D:\Project1\Project1\PartialWave.h(102,76): warning : conversion to ‘int’ from ‘std::vector<double>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+D:\Project1\Project1\PartialWave.h(103,41): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+D:\Project1\Project1\PartialWave.h(108,46): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+D:\Project1\Project1\PartialWave.h(113,44): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+D:\Project1\Project1\PartialWave.h(119,48): warning : conversion to ‘int’ from ‘std::vector<double>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+D:\Project1\Project1\PartialWave.h(120,41): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+D:\Project1\Project1\PartialWave.h(124,67): warning : conversion to ‘int’ from ‘std::vector<double>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+D:\Project1\Project1\PartialWave.h(125,41): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+D:\Project1\Project1\PartialWave.h(130,46): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+D:\Project1\Project1\PartialWave.h(135,42): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+D:\Project1\Project1\PartialWave.h(139,66): warning : conversion to ‘int’ from ‘std::vector<double>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+D:\Project1\Project1\PartialWave.h(140,32): warning : conversion to ‘int’ from ‘std::vector<double>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+D:\Project1\Project1\PartialWave.h(153,5): warning : no return statement in function returning non-void [-Wreturn-type]
+L: included from \mnt\d\Project1\Project1\main.cpp(27): message : 
+D:\Project1\Project1\LAPW.h(20,33): warning : ‘LAPW::C2l’ will be initialized after [-Wreorder]
+D:\Project1\Project1\LAPW.h(13,24): warning : ‘function2D<double> LAPW::C2_1’ [-Wreorder]
+D:\Project1\Project1\LAPW.h(26,5): warning : when initialized here [-Wreorder]
+D:\Project1\Project1\LAPW.h(24,29): warning : ‘LAPW::weighI’ will be initialized after [-Wreorder]
+D:\Project1\Project1\LAPW.h(15,24): warning : ‘function2D<double> LAPW::Olap_I’ [-Wreorder]
+D:\Project1\Project1\LAPW.h(26,5): warning : when initialized here [-Wreorder]
+L: included from \mnt\d\Project1\Project1\main.cpp(28): message : 
+D:\Project1\Project1\miscellaneous.h(14,36): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+D:\Project1\Project1\miscellaneous.h(21,32): warning : conversion to ‘int’ from ‘std::vector<double>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+D:\Project1\Project1\miscellaneous.h(22,33): warning : conversion to ‘int’ from ‘std::vector<double>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+D:\Project1\Project1\miscellaneous.h(25,36): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+D:\Project1\Project1\miscellaneous.h(32,43): warning : conversion to ‘int’ from ‘std::vector<double>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+D:\Project1\Project1\miscellaneous.h(33,32): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+D:\Project1\Project1\main.cpp(135,35): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+D:\Project1\Project1\main.cpp(160,36): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+L: included from \mnt\d\Project1\Project1\main.cpp(19): message : 
+D:\Project1\Project1\blas.h(11,41): message : required from here
+D:\Project1\Project1\function.h(9,18): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+D:\Project1\Project1\function.h(313,45): message : in expansion of macro ‘HPoffset’
+D:\Project1\Project1\blas.h(18,11): message : required from here
+D:\Project1\Project1\function.h(9,18): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+D:\Project1\Project1\function.h(375,79): message : in expansion of macro ‘HPoffset’
+D:\Project1\Project1\function.h(9,18): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+D:\Project1\Project1\function.h(386,48): message : in expansion of macro ‘HPoffset’
+L: included from \mnt\d\Project1\Project1\main.cpp(14): message : 
+D:\Project1\Project1\core.h(81,48): message : required from here
+D:\Project1\Project1\integrate.h(19,17): warning : conversion to ‘int’ from ‘__gnu_cxx::__promote_2<int, int, double, double>::__type {aka double}’ may alter its value [-Wconversion]
+L: included from \mnt\d\Project1\Project1\main.cpp(19): message : 
+D:\Project1\Project1\LAPW.h(34,39): message : required from here
+D:\Project1\Project1\function.h(9,18): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+D:\Project1\Project1\function.h(337,76): message : in expansion of macro ‘HPoffset’
+D:\Project1\Project1\function.h(9,18): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+D:\Project1\Project1\function.h(347,48): message : in expansion of macro ‘HPoffset’
+L: included from \mnt\d\Project1\Project1\main.cpp(19): message : 
+D:\Project1\Project1\function.h(38,5): warning : control reaches end of non-void function [-Wreturn-type]
+D:\Project1\Project1\function.h(46,5): warning : control reaches end of non-void function [-Wreturn-type]
+D:\Project1\Project1\function.h(272,5): warning : control reaches end of non-void function [-Wreturn-type]
+D:\Project1\Project1\function.h(248,5): warning : control reaches end of non-void function [-Wreturn-type]
+D:\Project1\Project1\function.h(264,5): warning : control reaches end of non-void function [-Wreturn-type]
+L: included from \mnt\d\Project1\Project1\main.cpp(16): message : 
+D:\Project1\Project1\bessel.h(111,1): warning : control reaches end of non-void function [-Wreturn-type]
+  Linking objects
+  Project1.vcxproj -> D:\Project1\Project1\bin\x64\Debug\Project1.out

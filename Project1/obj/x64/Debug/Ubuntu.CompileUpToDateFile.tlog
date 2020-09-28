@@ -1,0 +1,17 @@
+D:\Project1\Project1\main.cpp|637369067475662033|/mnt/d/Project1/Project1||g++-4.8 -c -x c++ /mnt/d/Project1/Project1/main.cpp -g2 -gdwarf-2 -o "/mnt/d/Project1/Project1/obj/x64/Debug/main.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++98 -fPIE 
+D:\Project1\Project1\bessel.h|637359537754420548|/mnt/d/Project1/Project1|| 
+D:\Project1\Project1\blas.h|637364599210680028|/mnt/d/Project1/Project1|| 
+D:\Project1\Project1\ChemicalPotential.h|637365395169353909|/mnt/d/Project1/Project1|| 
+D:\Project1\Project1\core.h|637368928862287980|/mnt/d/Project1/Project1|| 
+D:\Project1\Project1\erf.h|637364635378902514|/mnt/d/Project1/Project1|| 
+D:\Project1\Project1\exchcorr.h|637369054022163407|/mnt/d/Project1/Project1|| 
+D:\Project1\Project1\fccLattice.h|637364586172686119|/mnt/d/Project1/Project1|| 
+D:\Project1\Project1\function.h|637360486885804784|/mnt/d/Project1/Project1|| 
+D:\Project1\Project1\integrate.h|637359530254015481|/mnt/d/Project1/Project1|| 
+D:\Project1\Project1\kmesh.h|637359588208535080|/mnt/d/Project1/Project1|| 
+D:\Project1\Project1\LAPW.h|637365466277815011|/mnt/d/Project1/Project1|| 
+D:\Project1\Project1\miscellaneous.h|637366273292404027|/mnt/d/Project1/Project1|| 
+D:\Project1\Project1\numerov.h|637359545638571670|/mnt/d/Project1/Project1|| 
+D:\Project1\Project1\PartialWave.h|637364907288889226|/mnt/d/Project1/Project1|| 
+D:\Project1\Project1\util.h|637359479934468080|/mnt/d/Project1/Project1|| 
+D:\Project1\Project1\zero.h|637359521487452440|/mnt/d/Project1/Project1|| 
